@@ -1,1 +1,4 @@
-This repository contains example project based on .NET Core API and Blazor Webassembly client
+"Blazetta" - проект, призванный познакомиться с технологией Blazor WebAssembly.
+Данный репозиторий содержит кодовую базу, которая формируется в рамках стримов на youtubb-канале "АйТиБорода".
+Каждому стриму соответствет релиз в данном репозитории.
+Релиз №1 - https://youtu.be/O4Cd4OCc9sw
